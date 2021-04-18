@@ -5,9 +5,9 @@
 - unordered item
 * unordered item
 
-1 this
-2 is
-3 ordered
+-1 this
+-2 is
+-3 ordered
 
 **bold**
 *italics*
