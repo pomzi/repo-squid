@@ -27,7 +27,7 @@ code
 ![mortala logo](screens/logo-mortala.png)
 
 - [x] this is completed task
-- [] this is not completed
+- [ ] this is not completed
 
 ```
 git add .
